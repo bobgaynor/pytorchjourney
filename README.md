@@ -1,15 +1,8 @@
 # PyTorch Journey
 
-Documenting my learning journey through deep learning and PyTorch.
+This repository will document my exploration through *AI and ML for Coders in PyTorch*.
 
-## Overview
+I’m currently focused on strengthening my understanding of core machine learning concepts through smaller, hands-on projects.  
+Once those milestones are complete, this space will become a collection of PyTorch notebooks, experiments, and reflections.
 
-Working through the PyTorch fundamentals and deep learning concepts.
-
-## Progress
-
-Coming soon
-
-## Resources
-
-[AI and ML for Coders in PyTorch](https://www.oreilly.com/library/view/ai-and-ml/9781098199166/) by Laurence Moroney
+Coming soon.
